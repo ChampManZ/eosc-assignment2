@@ -33,3 +33,23 @@ a,
     padding: 0 2rem;
   }
 }
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+}
