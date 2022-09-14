@@ -1,4 +1,4 @@
-# EoSC-Assignment 2
+# Element of Software Construction - Assignment 2
 
 This template should help get you started developing with Vue 3 in Vite.
 
